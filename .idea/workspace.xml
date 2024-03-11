@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -45,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/UI",
+    "last_opened_file_path": "V:/JavaProjects/UI/src/main/java/ru/fafurin",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -54,8 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="V:\JavaProjects\UI" />
       <recent name="V:\JavaProjects\UI\src\main\java\ru\fafurin" />
+      <recent name="V:\JavaProjects\UI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\UI\src\main\resources" />
     </key>
   </component>
   <component name="RunManager">
@@ -64,7 +68,7 @@
       <module name="UI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.fafurin.*" />
+          <option name="PATTERN" value="actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +119,112 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>215</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>265</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>261</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>257</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>253</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>249</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>245</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>240</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>238</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>234</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>230</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.9.7.0/telegrambots-6.9.7.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>216</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.1.0/telegrambots-6.1.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>231</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>193</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>204</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>208</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>212</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>220</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>231</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/6.0.1/telegrambots-6.0.1.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class</url>
+          <line>236</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
